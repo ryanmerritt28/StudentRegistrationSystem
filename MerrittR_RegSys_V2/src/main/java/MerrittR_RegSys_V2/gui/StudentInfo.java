@@ -165,10 +165,10 @@ public class StudentInfo extends javax.swing.JFrame {
     private void formWindowOpened(java.awt.event.WindowEvent evt) {//GEN-FIRST:event_formWindowOpened
         
         
-        Section busProg = new Section("Fuck Bitches", "12345", "T/R", 3, "3-4");
-        Section projMan = new Section("Get Money", "67890", "T/R", 3, "5-6");
-        Section busObj = new Section("How 2 B an Alpha Male", "65498", "M/W", 3, "3-4");
-        Section eComm = new Section ("Pu$$y", "32165", "W/F", 3, "1-2");
+        Section busProg = new Section("Business Programming", "12345", "T/R", 3, "3-4");
+        Section projMan = new Section("Project Management", "67890", "T/R", 3, "5-6");
+        Section busObj = new Section("Business Objects", "65498", "M/W", 3, "3-4");
+        Section eComm = new Section ("E-Commerce", "32165", "W/F", 3, "1-2");
        
         s.addSection(busProg);
         s.addSection(projMan);
