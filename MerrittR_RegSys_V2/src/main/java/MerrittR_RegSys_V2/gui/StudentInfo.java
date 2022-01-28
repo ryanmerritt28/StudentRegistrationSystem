@@ -7,7 +7,6 @@ package MerrittR_RegSys_V2.gui;
 import com.mycompany.merrittr_regsys_v2.Student;
 import com.mycompany.merrittr_regsys_v2.InternationalStudent;
 import com.mycompany.merrittr_regsys_v2.Section;
-import java.util.List;
 import javax.swing.DefaultListModel;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
